@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 
 - **SFML**: The project uses the SFML library for graphics and window management. Visit [SFML](https://www.sfml-dev.org/) for more information.
-- **Halo Dek.ttf**: Font used for the button (optional if you removed text).
+- **Halo Dek.ttf**: Font used for the button.
